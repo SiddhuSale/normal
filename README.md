@@ -1,6 +1,6 @@
 # normal
 Its my first git repo
 <br>
-Author - siddhivinayak sale 
+Author - Siddhivinayak Sale
 <br>
          Linux engineer trainee
